@@ -4,4 +4,4 @@
 
 ### Object-oriented programming
 
-- **Encapsulation**: `yarn run oo:encapsulation` in `/src/oo/encapsulation.ts` (https://cloudy-marsupial-788.notion.site/Encapsulation-95a4ce6048a64e7d9fb58f3a4fd4a014)
+- **Encapsulation**: Run `yarn run oo:encapsulation` to see the example on `/src/oo/encapsulation.ts` (Read more at https://cloudy-marsupial-788.notion.site/Encapsulation-95a4ce6048a64e7d9fb58f3a4fd4a014)
