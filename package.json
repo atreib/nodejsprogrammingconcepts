@@ -1,0 +1,18 @@
+{
+  "name": "studying-concepts",
+  "version": "1.0.0",
+  "description": "Studying programming concepts with Node.js",
+  "main": "index.js",
+  "author": "Andre Treib",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node ./src/index.ts",
+    "oo:encapsulation": "ts-node ./src/oo/encapsulation.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
