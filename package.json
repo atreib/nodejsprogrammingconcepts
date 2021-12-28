@@ -8,7 +8,8 @@
   "scripts": {
     "build": "tsc",
     "dev": "ts-node ./src/index.ts",
-    "oo:encapsulation": "ts-node ./src/oo/encapsulation.ts"
+    "oo:encapsulation": "ts-node ./src/oo/encapsulation.ts",
+    "oo:composition": "ts-node ./src/oo/composition/main.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.5",
