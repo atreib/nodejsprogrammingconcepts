@@ -10,7 +10,7 @@
     "dev": "ts-node ./src/index.ts",
     "oo:encapsulation": "ts-node ./src/oo/encapsulation.ts",
     "oo:composition": "ts-node ./src/oo/composition/main.ts",
-    "oo:association": "ts-node ./src/oo/association/example.ts"
+    "oo:aggregation": "ts-node ./src/oo/aggregation/example.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.5",

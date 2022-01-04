@@ -2,10 +2,10 @@ import { Student } from "./student";
 import { Teacher } from "./teacher";
 
 /**
- * In our "Class" class, we're creating an association
+ * In our "Class" class, we're creating an aggregation
  *   between our Student and Teacher classes.
- * They both exists by their own, and can associate with
- *   different classes at the same time.
+ * They both exists by their own, and are aggregated in our Class class.
+ *   A Class has students and a teacher, but the otherwise is false.
  */
 export class Class {
   private students?: Student[];

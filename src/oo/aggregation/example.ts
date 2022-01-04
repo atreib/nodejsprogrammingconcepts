@@ -25,3 +25,4 @@ console.log(`
 `);
 
 console.log(`We can remove an student, create a new one and our class will still up and running!`);
+console.log(`Our class has students and a teacher, but our Student/Teacher can't have an own Class.`);
