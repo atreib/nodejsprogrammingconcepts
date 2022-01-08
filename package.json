@@ -11,7 +11,10 @@
     "oo:encapsulation": "ts-node ./src/oo/encapsulation.ts",
     "oo:composition": "ts-node ./src/oo/composition/main.ts",
     "oo:aggregation": "ts-node ./src/oo/aggregation/example.ts",
-    "oo:association": "ts-node ./src/oo/association/example.ts"
+    "oo:association": "ts-node ./src/oo/association/example.ts",
+    "oo:polymorphism:static:dictionary": "ts-node ./src/oo/polymorphism/static/dictionary.ts",
+    "oo:polymorphism:static:union": "ts-node ./src/oo/polymorphism/static/union.ts",
+    "oo:polymorphism:static:multiple-signature": "ts-node ./src/oo/polymorphism/static/multiple-signature.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.5",
