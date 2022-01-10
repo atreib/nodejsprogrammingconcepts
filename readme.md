@@ -1,5 +1,10 @@
 # Studying programming concepts with Node.js
 
+## Also available on:
+
+- [C#](https://github.com/atreib/csharpprogrammingconcepts)
+- [Java](https://github.com/atreib/javaprogrammingconcepts)
+
 ## Topics
 
 ### Object-oriented programming
@@ -11,3 +16,4 @@
 - **Static Polymorphism (Example 1)**: Run `yarn run oo:polymorphism:static:dictionary` to see the example on `/src/oo/polymorphism/static/dictionary.ts` (Read more at https://cloudy-marsupial-788.notion.site/Polymorphism-6155d343b1e14c6a88fe850b9b73bddf)
 - **Static Polymorphism (Example 2)**: Run `yarn run oo:polymorphism:static:union` to see the example on `/src/oo/polymorphism/static/union.ts` (Read more at https://cloudy-marsupial-788.notion.site/Polymorphism-6155d343b1e14c6a88fe850b9b73bddf)
 - **Static Polymorphism (Example 2)**: Run `yarn run oo:polymorphism:static:multiple-signature` to see the example on `/src/oo/polymorphism/static/multiple-signature.ts` (Read more at https://cloudy-marsupial-788.notion.site/Polymorphism-6155d343b1e14c6a88fe850b9b73bddf)
+- **Dynamic Polymorphism**: Run `yarn run oo:polymorphism:static:multiple-signature` to see the example on `/src/oo/polymorphism/static/multiple-signature.ts` (Read more at https://cloudy-marsupial-788.notion.site/Polymorphism-6155d343b1e14c6a88fe850b9b73bddf)
