@@ -15,7 +15,8 @@
     "oo:polymorphism:static:dictionary": "ts-node ./src/oo/polymorphism/static/dictionary.ts",
     "oo:polymorphism:static:union": "ts-node ./src/oo/polymorphism/static/union.ts",
     "oo:polymorphism:static:multiple-signature": "ts-node ./src/oo/polymorphism/static/multiple-signature.ts",
-    "oo:polymorphism:dynamic": "ts-node ./src/oo/polymorphism/dynamic/example.ts"
+    "oo:polymorphism:dynamic": "ts-node ./src/oo/polymorphism/dynamic/example.ts",
+    "data-structure:stack": "ts-node ./src/data-structure/stack/example.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.5",
