@@ -5,8 +5,8 @@ class MyStack {
     this.stack.push(value);
   }
 
-  public pop(): void {
-    this.stack.pop();
+  public pop(): string | undefined {
+    return this.stack.pop();
   }
 
   public top(): string | undefined {
