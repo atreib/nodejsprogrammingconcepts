@@ -18,7 +18,8 @@
     "oo:polymorphism:dynamic": "ts-node ./src/oo/polymorphism/dynamic/example.ts",
     "data-structure:stack": "ts-node ./src/data-structure/stack/example.ts",
     "data-structure:queue": "ts-node ./src/data-structure/queue/example.ts",
-    "data-structure:tree": "ts-node ./src/data-structure/binary-search-tree/index.ts"
+    "data-structure:tree": "ts-node ./src/data-structure/binary-search-tree/index.ts",
+    "data-structure:graph:list": "ts-node ./src/data-structure/graph/adjacency-list.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.5",
